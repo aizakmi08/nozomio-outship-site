@@ -4,6 +4,7 @@ const cook = document.querySelector(".cook");
 const sequence = document.querySelector("#cook-sequence");
 const canvas = document.querySelector("#cook-canvas");
 const context = canvas?.getContext("2d", { alpha: false });
+const offer = document.querySelector(".offer");
 const offerStage = document.querySelector(".offer__stage");
 const yesButton = document.querySelector(".offer__button--yes");
 const noButton = document.querySelector(".offer__button--no");
@@ -189,6 +190,33 @@ const setNoButtonPosition = (x, y) => {
   noButtonY = y;
   noButton.style.setProperty("--no-x", `${x.toFixed(2)}px`);
   noButton.style.setProperty("--no-y", `${y.toFixed(2)}px`);
+};
+
+const resetNoButton = () => {
+  if (!offerStage || !noButton) return;
+
+  if (noAnimationFrame) cancelAnimationFrame(noAnimationFrame);
+  noAnimationFrame = 0;
+  noPointer = null;
+  noLastPointer = null;
+  noPointerVelocityX = 0;
+  noPointerVelocityY = 0;
+  noEscapeKick = 0;
+  noLastFrameTime = 0;
+  noVelocityX = 0;
+  noVelocityY = 0;
+  noBaseLeft = 0;
+  noBaseTop = 0;
+  noFloating = false;
+  noButton.classList.remove("is-floating");
+  noButton.style.removeProperty("--no-base-left");
+  noButton.style.removeProperty("--no-base-top");
+
+  if (noButton.parentElement !== offerStage) {
+    offerStage.appendChild(noButton);
+  }
+
+  setNoButtonPosition(0, 0);
 };
 
 const ensureNoFloating = () => {
@@ -624,6 +652,9 @@ const updateScrollEffects = () => {
   const heroProgress = clamp(window.scrollY / (window.innerHeight * 0.92), 0, 1);
   const cookRect = cook.getBoundingClientRect();
   const cookProgress = smooth((window.innerHeight - cookRect.top) / (window.innerHeight * 0.88));
+  const offerRect = offer.getBoundingClientRect();
+  const offerActive =
+    offerRect.top < window.innerHeight * 0.92 && offerRect.bottom > window.innerHeight * 0.12;
   const sequenceRect = sequence.getBoundingClientRect();
   const sequenceRange = sequenceRect.height - window.innerHeight;
   const sequenceProgress = sequenceRange <= 0 ? 0 : clamp(-sequenceRect.top / sequenceRange, 0, 1);
@@ -634,6 +665,7 @@ const updateScrollEffects = () => {
   root.style.setProperty("--cook-scroll", cookProgress.toFixed(4));
   root.style.setProperty("--sequence-progress", playbackProgress.toFixed(4));
   root.style.setProperty("--page-progress", pageProgress.toFixed(4));
+  if (!offerActive && noFloating) resetNoButton();
   requestFrame(sequenceFrame);
   warmFrameWindow(sequenceFrame);
 };
