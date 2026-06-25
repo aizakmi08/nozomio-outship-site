@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>outship me</title>
+    <link rel="stylesheet" href="./styles.css?offer-buttons-v57" />
+  </head>
+  <body>
+    <div class="scroll-progress" aria-hidden="true"></div>
+
+    <main>
+      <section class="panel hero" data-panel>
+        <h1>you want me to outship you?</h1>
+      </section>
+
+      <section class="panel cook" data-panel>
+        <h2>let me cook then.</h2>
+      </section>
+
+      <section class="sequence" id="cook-sequence" aria-label="egg cooking animation">
+        <div class="sequence__sticky">
+          <canvas
+            class="sequence__canvas"
+            id="cook-canvas"
+            width="1920"
+            height="1080"
+            aria-hidden="true"
+          ></canvas>
+          <noscript>
+            <img src="./assets/frames/cook/final.webp" alt="shipment to Almaty box" />
+          </noscript>
+        </div>
+      </section>
+
+      <section class="panel offer" data-panel>
+        <div class="offer__inner">
+          <h2>make an offer?</h2>
+          <div class="offer__stage" aria-label="offer options">
+            <a
+              class="offer__button offer__button--yes"
+              href="mailto:ulugbeknasyrov08@gmail.com?subject=your%20nozomio%20job%20application&body=Dear%20Ulugbek%2C%0AYou%20are%20really%20funny%20and%20exceptional%2C%20will%20you%20work%20with%20us%3F"
+            >
+              yes
+            </a>
+            <button class="offer__button offer__button--no" type="button">no</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./script.js?offer-buttons-v57"></script>
+  </body>
+</html>

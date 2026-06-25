@@ -1,0 +1,830 @@
+{
+  "source_zip": "ezgif-132d49030a79666d-jpg.zip",
+  "source_frames": 240,
+  "unique_after_exact_dedupe": 194,
+  "curated_frames": 661,
+  "format": "webp",
+  "canvas": [
+    1080,
+    1920
+  ],
+  "color": "monochrome",
+  "selection": [
+    {
+      "frame": "frame-000.webp",
+      "source": "ezgif-frame-001.jpg",
+      "unique_index": 0
+    },
+    {
+      "frame": "frame-001.webp",
+      "source": "ezgif-frame-009.jpg",
+      "unique_index": 8
+    },
+    {
+      "frame": "frame-002.webp",
+      "source": "ezgif-frame-019.jpg",
+      "unique_index": 16
+    },
+    {
+      "frame": "frame-003.webp",
+      "source": "ezgif-frame-022.jpg",
+      "unique_index": 19
+    },
+    {
+      "frame": "frame-004.webp",
+      "source": "ezgif-frame-026.jpg",
+      "unique_index": 22
+    },
+    {
+      "frame": "frame-005.webp",
+      "source": "ezgif-frame-027.jpg",
+      "unique_index": 23
+    },
+    {
+      "frame": "frame-006.webp",
+      "source": "ezgif-frame-030.jpg",
+      "unique_index": 25
+    },
+    {
+      "frame": "frame-007.webp",
+      "source": "ezgif-frame-031.jpg",
+      "unique_index": 26
+    },
+    {
+      "frame": "frame-008.webp",
+      "source": "ezgif-frame-032.jpg",
+      "unique_index": 27
+    },
+    {
+      "frame": "frame-009.webp",
+      "source": "ezgif-frame-034.jpg",
+      "unique_index": 28
+    },
+    {
+      "frame": "frame-010.webp",
+      "source": "ezgif-frame-035.jpg",
+      "unique_index": 29
+    },
+    {
+      "frame": "frame-011.webp",
+      "source": "ezgif-frame-036.jpg",
+      "unique_index": 30
+    },
+    {
+      "frame": "frame-012.webp",
+      "source": "ezgif-frame-037.jpg",
+      "unique_index": 31
+    },
+    {
+      "frame": "frame-013.webp",
+      "source": "ezgif-frame-039.jpg",
+      "unique_index": 32
+    },
+    {
+      "frame": "frame-014.webp",
+      "source": "ezgif-frame-040.jpg",
+      "unique_index": 33
+    },
+    {
+      "frame": "frame-015.webp",
+      "source": "ezgif-frame-041.jpg",
+      "unique_index": 34
+    },
+    {
+      "frame": "frame-016.webp",
+      "source": "ezgif-frame-042.jpg",
+      "unique_index": 35
+    },
+    {
+      "frame": "frame-017.webp",
+      "source": "ezgif-frame-044.jpg",
+      "unique_index": 36
+    },
+    {
+      "frame": "frame-018.webp",
+      "source": "ezgif-frame-045.jpg",
+      "unique_index": 37
+    },
+    {
+      "frame": "frame-019.webp",
+      "source": "ezgif-frame-046.jpg",
+      "unique_index": 38
+    },
+    {
+      "frame": "frame-020.webp",
+      "source": "ezgif-frame-047.jpg",
+      "unique_index": 39
+    },
+    {
+      "frame": "frame-021.webp",
+      "source": "ezgif-frame-049.jpg",
+      "unique_index": 40
+    },
+    {
+      "frame": "frame-022.webp",
+      "source": "ezgif-frame-050.jpg",
+      "unique_index": 41
+    },
+    {
+      "frame": "frame-023.webp",
+      "source": "ezgif-frame-051.jpg",
+      "unique_index": 42
+    },
+    {
+      "frame": "frame-024.webp",
+      "source": "ezgif-frame-052.jpg",
+      "unique_index": 43
+    },
+    {
+      "frame": "frame-025.webp",
+      "source": "ezgif-frame-054.jpg",
+      "unique_index": 44
+    },
+    {
+      "frame": "frame-026.webp",
+      "source": "ezgif-frame-055.jpg",
+      "unique_index": 45
+    },
+    {
+      "frame": "frame-027.webp",
+      "source": "ezgif-frame-056.jpg",
+      "unique_index": 46
+    },
+    {
+      "frame": "frame-028.webp",
+      "source": "ezgif-frame-057.jpg",
+      "unique_index": 47
+    },
+    {
+      "frame": "frame-029.webp",
+      "source": "ezgif-frame-059.jpg",
+      "unique_index": 48
+    },
+    {
+      "frame": "frame-030.webp",
+      "source": "ezgif-frame-060.jpg",
+      "unique_index": 49
+    },
+    {
+      "frame": "frame-031.webp",
+      "source": "ezgif-frame-061.jpg",
+      "unique_index": 50
+    },
+    {
+      "frame": "frame-032.webp",
+      "source": "ezgif-frame-062.jpg",
+      "unique_index": 51
+    },
+    {
+      "frame": "frame-033.webp",
+      "source": "ezgif-frame-064.jpg",
+      "unique_index": 52
+    },
+    {
+      "frame": "frame-034.webp",
+      "source": "ezgif-frame-065.jpg",
+      "unique_index": 53
+    },
+    {
+      "frame": "frame-035.webp",
+      "source": "ezgif-frame-066.jpg",
+      "unique_index": 54
+    },
+    {
+      "frame": "frame-036.webp",
+      "source": "ezgif-frame-067.jpg",
+      "unique_index": 55
+    },
+    {
+      "frame": "frame-037.webp",
+      "source": "ezgif-frame-069.jpg",
+      "unique_index": 56
+    },
+    {
+      "frame": "frame-038.webp",
+      "source": "ezgif-frame-070.jpg",
+      "unique_index": 57
+    },
+    {
+      "frame": "frame-039.webp",
+      "source": "ezgif-frame-071.jpg",
+      "unique_index": 58
+    },
+    {
+      "frame": "frame-040.webp",
+      "source": "ezgif-frame-072.jpg",
+      "unique_index": 59
+    },
+    {
+      "frame": "frame-041.webp",
+      "source": "ezgif-frame-074.jpg",
+      "unique_index": 60
+    },
+    {
+      "frame": "frame-042.webp",
+      "source": "ezgif-frame-075.jpg",
+      "unique_index": 61
+    },
+    {
+      "frame": "frame-043.webp",
+      "source": "ezgif-frame-076.jpg",
+      "unique_index": 62
+    },
+    {
+      "frame": "frame-044.webp",
+      "source": "ezgif-frame-077.jpg",
+      "unique_index": 63
+    },
+    {
+      "frame": "frame-045.webp",
+      "source": "ezgif-frame-079.jpg",
+      "unique_index": 64
+    },
+    {
+      "frame": "frame-046.webp",
+      "source": "ezgif-frame-080.jpg",
+      "unique_index": 65
+    },
+    {
+      "frame": "frame-047.webp",
+      "source": "ezgif-frame-081.jpg",
+      "unique_index": 66
+    },
+    {
+      "frame": "frame-048.webp",
+      "source": "ezgif-frame-082.jpg",
+      "unique_index": 67
+    },
+    {
+      "frame": "frame-049.webp",
+      "source": "ezgif-frame-084.jpg",
+      "unique_index": 68
+    },
+    {
+      "frame": "frame-050.webp",
+      "source": "ezgif-frame-085.jpg",
+      "unique_index": 69
+    },
+    {
+      "frame": "frame-051.webp",
+      "source": "ezgif-frame-086.jpg",
+      "unique_index": 70
+    },
+    {
+      "frame": "frame-052.webp",
+      "source": "ezgif-frame-087.jpg",
+      "unique_index": 71
+    },
+    {
+      "frame": "frame-053.webp",
+      "source": "ezgif-frame-089.jpg",
+      "unique_index": 72
+    },
+    {
+      "frame": "frame-054.webp",
+      "source": "ezgif-frame-090.jpg",
+      "unique_index": 73
+    },
+    {
+      "frame": "frame-055.webp",
+      "source": "ezgif-frame-091.jpg",
+      "unique_index": 74
+    },
+    {
+      "frame": "frame-056.webp",
+      "source": "ezgif-frame-092.jpg",
+      "unique_index": 75
+    },
+    {
+      "frame": "frame-057.webp",
+      "source": "ezgif-frame-095.jpg",
+      "unique_index": 77
+    },
+    {
+      "frame": "frame-058.webp",
+      "source": "ezgif-frame-097.jpg",
+      "unique_index": 79
+    },
+    {
+      "frame": "frame-059.webp",
+      "source": "ezgif-frame-099.jpg",
+      "unique_index": 80
+    },
+    {
+      "frame": "frame-060.webp",
+      "source": "ezgif-frame-101.jpg",
+      "unique_index": 82
+    },
+    {
+      "frame": "frame-061.webp",
+      "source": "ezgif-frame-104.jpg",
+      "unique_index": 84
+    },
+    {
+      "frame": "frame-062.webp",
+      "source": "ezgif-frame-105.jpg",
+      "unique_index": 85
+    },
+    {
+      "frame": "frame-063.webp",
+      "source": "ezgif-frame-107.jpg",
+      "unique_index": 87
+    },
+    {
+      "frame": "frame-064.webp",
+      "source": "ezgif-frame-110.jpg",
+      "unique_index": 89
+    },
+    {
+      "frame": "frame-065.webp",
+      "source": "ezgif-frame-111.jpg",
+      "unique_index": 90
+    },
+    {
+      "frame": "frame-066.webp",
+      "source": "ezgif-frame-112.jpg",
+      "unique_index": 91
+    },
+    {
+      "frame": "frame-067.webp",
+      "source": "ezgif-frame-114.jpg",
+      "unique_index": 92
+    },
+    {
+      "frame": "frame-068.webp",
+      "source": "ezgif-frame-115.jpg",
+      "unique_index": 93
+    },
+    {
+      "frame": "frame-069.webp",
+      "source": "ezgif-frame-116.jpg",
+      "unique_index": 94
+    },
+    {
+      "frame": "frame-070.webp",
+      "source": "ezgif-frame-117.jpg",
+      "unique_index": 95
+    },
+    {
+      "frame": "frame-071.webp",
+      "source": "ezgif-frame-119.jpg",
+      "unique_index": 96
+    },
+    {
+      "frame": "frame-072.webp",
+      "source": "ezgif-frame-120.jpg",
+      "unique_index": 97
+    },
+    {
+      "frame": "frame-073.webp",
+      "source": "ezgif-frame-121.jpg",
+      "unique_index": 98
+    },
+    {
+      "frame": "frame-074.webp",
+      "source": "ezgif-frame-122.jpg",
+      "unique_index": 99
+    },
+    {
+      "frame": "frame-075.webp",
+      "source": "ezgif-frame-124.jpg",
+      "unique_index": 100
+    },
+    {
+      "frame": "frame-076.webp",
+      "source": "ezgif-frame-125.jpg",
+      "unique_index": 101
+    },
+    {
+      "frame": "frame-077.webp",
+      "source": "ezgif-frame-126.jpg",
+      "unique_index": 102
+    },
+    {
+      "frame": "frame-078.webp",
+      "source": "ezgif-frame-127.jpg",
+      "unique_index": 103
+    },
+    {
+      "frame": "frame-079.webp",
+      "source": "ezgif-frame-129.jpg",
+      "unique_index": 104
+    },
+    {
+      "frame": "frame-080.webp",
+      "source": "ezgif-frame-130.jpg",
+      "unique_index": 105
+    },
+    {
+      "frame": "frame-081.webp",
+      "source": "ezgif-frame-131.jpg",
+      "unique_index": 106
+    },
+    {
+      "frame": "frame-082.webp",
+      "source": "ezgif-frame-132.jpg",
+      "unique_index": 107
+    },
+    {
+      "frame": "frame-083.webp",
+      "source": "ezgif-frame-134.jpg",
+      "unique_index": 108
+    },
+    {
+      "frame": "frame-084.webp",
+      "source": "ezgif-frame-135.jpg",
+      "unique_index": 109
+    },
+    {
+      "frame": "frame-085.webp",
+      "source": "ezgif-frame-136.jpg",
+      "unique_index": 110
+    },
+    {
+      "frame": "frame-086.webp",
+      "source": "ezgif-frame-137.jpg",
+      "unique_index": 111
+    },
+    {
+      "frame": "frame-087.webp",
+      "source": "ezgif-frame-139.jpg",
+      "unique_index": 112
+    },
+    {
+      "frame": "frame-088.webp",
+      "source": "ezgif-frame-140.jpg",
+      "unique_index": 113
+    },
+    {
+      "frame": "frame-089.webp",
+      "source": "ezgif-frame-141.jpg",
+      "unique_index": 114
+    },
+    {
+      "frame": "frame-090.webp",
+      "source": "ezgif-frame-142.jpg",
+      "unique_index": 115
+    },
+    {
+      "frame": "frame-091.webp",
+      "source": "ezgif-frame-144.jpg",
+      "unique_index": 116
+    },
+    {
+      "frame": "frame-092.webp",
+      "source": "ezgif-frame-145.jpg",
+      "unique_index": 117
+    },
+    {
+      "frame": "frame-093.webp",
+      "source": "ezgif-frame-146.jpg",
+      "unique_index": 118
+    },
+    {
+      "frame": "frame-094.webp",
+      "source": "ezgif-frame-147.jpg",
+      "unique_index": 119
+    },
+    {
+      "frame": "frame-095.webp",
+      "source": "ezgif-frame-149.jpg",
+      "unique_index": 120
+    },
+    {
+      "frame": "frame-096.webp",
+      "source": "ezgif-frame-150.jpg",
+      "unique_index": 121
+    },
+    {
+      "frame": "frame-097.webp",
+      "source": "ezgif-frame-151.jpg",
+      "unique_index": 122
+    },
+    {
+      "frame": "frame-098.webp",
+      "source": "ezgif-frame-152.jpg",
+      "unique_index": 123
+    },
+    {
+      "frame": "frame-099.webp",
+      "source": "ezgif-frame-154.jpg",
+      "unique_index": 124
+    },
+    {
+      "frame": "frame-100.webp",
+      "source": "ezgif-frame-155.jpg",
+      "unique_index": 125
+    },
+    {
+      "frame": "frame-101.webp",
+      "source": "ezgif-frame-156.jpg",
+      "unique_index": 126
+    },
+    {
+      "frame": "frame-102.webp",
+      "source": "ezgif-frame-157.jpg",
+      "unique_index": 127
+    },
+    {
+      "frame": "frame-103.webp",
+      "source": "ezgif-frame-159.jpg",
+      "unique_index": 128
+    },
+    {
+      "frame": "frame-104.webp",
+      "source": "ezgif-frame-160.jpg",
+      "unique_index": 129
+    },
+    {
+      "frame": "frame-105.webp",
+      "source": "ezgif-frame-161.jpg",
+      "unique_index": 130
+    },
+    {
+      "frame": "frame-106.webp",
+      "source": "ezgif-frame-162.jpg",
+      "unique_index": 131
+    },
+    {
+      "frame": "frame-107.webp",
+      "source": "ezgif-frame-164.jpg",
+      "unique_index": 132
+    },
+    {
+      "frame": "frame-108.webp",
+      "source": "ezgif-frame-165.jpg",
+      "unique_index": 133
+    },
+    {
+      "frame": "frame-109.webp",
+      "source": "ezgif-frame-167.jpg",
+      "unique_index": 135
+    },
+    {
+      "frame": "frame-110.webp",
+      "source": "ezgif-frame-169.jpg",
+      "unique_index": 136
+    },
+    {
+      "frame": "frame-111.webp",
+      "source": "ezgif-frame-171.jpg",
+      "unique_index": 138
+    },
+    {
+      "frame": "frame-112.webp",
+      "source": "ezgif-frame-174.jpg",
+      "unique_index": 140
+    },
+    {
+      "frame": "frame-113.webp",
+      "source": "ezgif-frame-175.jpg",
+      "unique_index": 141
+    },
+    {
+      "frame": "frame-114.webp",
+      "source": "ezgif-frame-177.jpg",
+      "unique_index": 143
+    },
+    {
+      "frame": "frame-115.webp",
+      "source": "ezgif-frame-180.jpg",
+      "unique_index": 145
+    },
+    {
+      "frame": "frame-116.webp",
+      "source": "ezgif-frame-182.jpg",
+      "unique_index": 147
+    },
+    {
+      "frame": "frame-117.webp",
+      "source": "ezgif-frame-185.jpg",
+      "unique_index": 149
+    },
+    {
+      "frame": "frame-118.webp",
+      "source": "ezgif-frame-186.jpg",
+      "unique_index": 150
+    },
+    {
+      "frame": "frame-119.webp",
+      "source": "ezgif-frame-187.jpg",
+      "unique_index": 151
+    },
+    {
+      "frame": "frame-120.webp",
+      "source": "ezgif-frame-189.jpg",
+      "unique_index": 152
+    },
+    {
+      "frame": "frame-121.webp",
+      "source": "ezgif-frame-190.jpg",
+      "unique_index": 153
+    },
+    {
+      "frame": "frame-122.webp",
+      "source": "ezgif-frame-191.jpg",
+      "unique_index": 154
+    },
+    {
+      "frame": "frame-123.webp",
+      "source": "ezgif-frame-192.jpg",
+      "unique_index": 155
+    },
+    {
+      "frame": "frame-124.webp",
+      "source": "ezgif-frame-194.jpg",
+      "unique_index": 156
+    },
+    {
+      "frame": "frame-125.webp",
+      "source": "ezgif-frame-195.jpg",
+      "unique_index": 157
+    },
+    {
+      "frame": "frame-126.webp",
+      "source": "ezgif-frame-196.jpg",
+      "unique_index": 158
+    },
+    {
+      "frame": "frame-127.webp",
+      "source": "ezgif-frame-197.jpg",
+      "unique_index": 159
+    },
+    {
+      "frame": "frame-128.webp",
+      "source": "ezgif-frame-199.jpg",
+      "unique_index": 160
+    },
+    {
+      "frame": "frame-129.webp",
+      "source": "ezgif-frame-200.jpg",
+      "unique_index": 161
+    },
+    {
+      "frame": "frame-130.webp",
+      "source": "ezgif-frame-201.jpg",
+      "unique_index": 162
+    },
+    {
+      "frame": "frame-131.webp",
+      "source": "ezgif-frame-202.jpg",
+      "unique_index": 163
+    },
+    {
+      "frame": "frame-132.webp",
+      "source": "ezgif-frame-204.jpg",
+      "unique_index": 164
+    },
+    {
+      "frame": "frame-133.webp",
+      "source": "ezgif-frame-205.jpg",
+      "unique_index": 165
+    },
+    {
+      "frame": "frame-134.webp",
+      "source": "ezgif-frame-206.jpg",
+      "unique_index": 166
+    },
+    {
+      "frame": "frame-135.webp",
+      "source": "ezgif-frame-207.jpg",
+      "unique_index": 167
+    },
+    {
+      "frame": "frame-136.webp",
+      "source": "ezgif-frame-209.jpg",
+      "unique_index": 168
+    },
+    {
+      "frame": "frame-137.webp",
+      "source": "ezgif-frame-210.jpg",
+      "unique_index": 169
+    },
+    {
+      "frame": "frame-138.webp",
+      "source": "ezgif-frame-211.jpg",
+      "unique_index": 170
+    },
+    {
+      "frame": "frame-139.webp",
+      "source": "ezgif-frame-212.jpg",
+      "unique_index": 171
+    },
+    {
+      "frame": "frame-140.webp",
+      "source": "ezgif-frame-214.jpg",
+      "unique_index": 172
+    }
+  ],
+  "ending_adjustment": "Restored previous version: frames 141-149 remain trimmed, canvas scale is removed, frames 108-140 use the earlier end-only stabilization, and playback holds from 82% onward.",
+  "pan_stabilization": {
+    "frames": [
+      108,
+      140
+    ],
+    "method": "restored previous end-only affine stabilization",
+    "full_strength_from_frame": 118,
+    "target_frame": 140,
+    "target_metric": {
+      "x": 445.912,
+      "y": 1075.726,
+      "width": 822.0,
+      "maxrow": 695.0
+    }
+  },
+  "pan_static_rebuild": {
+    "applied_frames": "078-139",
+    "reference_frame": "frame-140.webp",
+    "method": "original-frame body/detail content composited onto a fixed final-frame pan/handle shell; early cropped pan frames keep original non-pan egg/droplet content over the fixed shell",
+    "source_backup": "assets/frames/cook-before-static-pan",
+    "frozen_backup": "assets/frames/cook-frozen-pan-backup",
+    "review_contact": "asset-review/pan-fixed-body-only-candidate-contact.jpg"
+  },
+  "continuation": {
+    "source_zip": "/Users/admin/Downloads/ezgif-734a92f770433b8e-jpg.zip",
+    "source_frames": 61,
+    "applied_frames": "141-208",
+    "transition_frames": "141-148",
+    "normalized_source_frames": "149-208",
+    "method": "watermark region removed, source converted to grayscale, pan bbox aligned to frame-140 target bbox, then appended after an 8-frame crossfade",
+    "source_reference_bbox": [
+      88,
+      328,
+      1392,
+      1104
+    ],
+    "target_reference_bbox": [
+      64,
+      752,
+      1079,
+      1313
+    ],
+    "backup_before_continuation": "assets/frames/cook-before-continuation",
+    "review_contacts": [
+      "asset-review/continue-normalized/normalized-source-contact.jpg",
+      "asset-review/continue-normalized/append-contact.jpg"
+    ]
+  },
+  "photo_transition": {
+    "source_photo": "/var/folders/dw/q1zl64912756whgpz3k33c1r0000gn/T/codex-clipboard-ca4f723a-52f8-4a15-a9d1-e61956715ab1.png",
+    "applied_frames": "209-404",
+    "start_from": "frame-208.webp",
+    "fixed_canvas_anchor": [
+      477.0,
+      1145.0
+    ],
+    "photo_face_anchor": [
+      434.0,
+      158.0
+    ],
+    "phase_frames": {
+      "virtual_portrait_pan_zoom": "209-296",
+      "virtual_portrait_face_dissolve": "297-328",
+      "photo_pullback": "329-392",
+      "final_hold": "393-404"
+    },
+    "method": "universal wide-stage renderer plus photo background removal v36, post-transition body box rebuild v41, box label polish v42, final strike polish v43, pan handle crop polish v45, face-match dissolve polish v46, and person cutout/box mask polish v47; the browser canvas is 16:9 for the full sequence, portrait and photo frames are drawn into centered virtual boxes matching the previous sizes and positioning, frames 209-296 are regenerated from the full portrait source so the pan handle stays inside the top-right canvas, frames 297-328 use the eye/head-size matched dissolve with a cleaner person matte so the real-photo face overlays the flipped-egg face before pulling into the post-transition body, frames 329-404 use the cleaned post-face-transition photo cutout, frames 405-660 layer the box back, clipped person, and box front/label so arms and lower body stay inside the carton while the shipment exits right, frames 405-520 polish the shipping label, and frames 521-660 correct the crossed-out word",
+    "backup_before_photo_transition": "assets/frames/cook-before-photo-transition",
+    "backup_before_face_anchor_fix": "assets/frames/cook-before-face-anchor-fix",
+    "backup_before_face_borderless": "assets/frames/cook-before-face-borderless-v26",
+    "backup_before_scale_face": "assets/frames/cook-before-scale-face-v27",
+    "backup_before_full_face_redo": "assets/frames/cook-before-full-face-redo-v28",
+    "backup_before_universal_wide_stage": "assets/frames/cook-before-universal-wide-stage-v33",
+    "backup_before_pan_nocrop": "assets/frames/cook-before-pan-nocrop-v30",
+    "backup_before_photo_bg_remove": "assets/frames/cook-before-photo-bg-remove-v36",
+    "backup_before_photo_face_match": "assets/frames/cook-before-photo-face-match-v38",
+    "backup_before_body_box_bridge": "assets/frames/cook-before-body-box-bridge-v39",
+    "backup_before_static_body_box": "assets/frames/cook-before-static-body-box-v40",
+    "backup_before_post_transition_body_box": "assets/frames/cook-before-post-transition-body-box-v41",
+    "backup_before_box_label_strike": "assets/frames/cook-before-box-label-strike-v42",
+    "backup_before_final_strike": "assets/frames/cook-before-box-label-strike-v43",
+    "backup_before_pan_handle_face_align": "assets/frames/cook-before-pan-handle-face-align-v45",
+    "backup_before_face_match_v46": "assets/frames/cook-before-face-match-v46",
+    "backup_before_person_cutout_box_mask_v47": "assets/frames/cook-before-person-cutout-box-mask-v47",
+    "background_removed_cutout": "assets/generated/photo-person-cutout-v47b.png",
+    "review_contact": "asset-review/person-cutout-box-mask-v47/contact.jpg"
+  },
+  "shipment_ending": {
+    "source_frame": "assets/generated/photo-person-cutout-v47b.png",
+    "applied_frames": "329-520",
+    "label": "SHIPMENT TO ALMATY",
+    "generated_box_source": "assets/generated/shipping-box-generated-v19-alpha.png",
+    "method": "the cleaned post-face-transition photo cutout stays locked as the only person layer while the generated monochrome carton is layered back-to-front around a clipped body mask, keeping arms and lower body inside the box; no tiny settled body frame or second person layer is introduced",
+    "backup_before_shipment": "assets/frames/cook-before-shipment-v17",
+    "backup_before_generated_box": "assets/frames/cook-before-generated-box-v19",
+    "backup_before_exit": "assets/frames/cook-before-exit-v24",
+    "backup_before_inside_fix": "assets/frames/cook-before-inside-fix-v25",
+    "backup_before_photo_bg_remove_shipment": "assets/frames/cook-before-photo-bg-remove-shipment-v36",
+    "backup_before_post_transition_body_box": "assets/frames/cook-before-post-transition-body-box-v41",
+    "backup_before_box_label_strike": "assets/frames/cook-before-box-label-strike-v42",
+    "backup_before_final_strike": "assets/frames/cook-before-box-label-strike-v43",
+    "backup_before_person_cutout_box_mask_v47": "assets/frames/cook-before-person-cutout-box-mask-v47",
+    "review_contact": "asset-review/person-cutout-box-mask-v47/contact.jpg"
+  },
+  "shipment_exit": {
+    "applied_frames": "521-660",
+    "method": "the same cleaned and clipped final body-in-box composite moves rightward until fully off-screen while the first 'out' in 'outshipped out' is crossed through the center and the text slides in from the left; no trail graphics are used",
+    "final_frame": "frame-660.webp",
+    "review_contact": "asset-review/person-cutout-box-mask-v47/contact.jpg"
+  }
+}
