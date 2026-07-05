@@ -1,5 +1,7 @@
 # Nozomio Application
 
+[![CI](https://github.com/aizakmi08/nozomio-application/actions/workflows/ci.yml/badge.svg)](https://github.com/aizakmi08/nozomio-application/actions/workflows/ci.yml)
+
 A playful one-page application microsite built as an interactive job application for Nozomio. The page uses scroll-driven storytelling, a canvas frame sequence, and a kinetic call-to-action to turn a simple application into a memorable product-style experience.
 
 Live demo: https://aizakmi08.github.io/nozomio-application/
@@ -48,3 +50,9 @@ The animation is implemented as a preloaded frame sequence rather than a video s
 ## Status
 
 The project is deployed and available as a public GitHub Pages site.
+
+## Quality Signals
+
+- CI verifies static entry files, favicon assets, canvas hooks, and the WebP animation frame sequence.
+- `CONTRIBUTING.md` documents the expected validation path for static assets and scroll-driven behavior.
+- `SECURITY.md` captures expectations for static deployment, external links, and future third-party scripts.
